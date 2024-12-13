@@ -1,7 +1,7 @@
 # Manual d'Aplicacions de la IA en Xarxes
 
 Aquest manual proporciona informació detallada sobre l'ús de la Intel·ligència Artificial (IA) en el camp de les xarxes, incloent les seves aplicacions, impactes en el sector i en el medi ambient, així com les propostes per minimitzar aquests impactes.
-<br><br>
+<br><br><br>
 # INDEX
 - [IA en la Gestió i Optimització de Xarxes](#1-ia-en-la-gestio-i-optimitzacio-de-xarxes)
 - [IA en la Seguretat de Xarxes](#2-ia-en-la-seguretat-de-xarxes)
