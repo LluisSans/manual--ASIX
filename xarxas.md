@@ -11,6 +11,8 @@ Aquest manual proporciona informació detallada sobre l'ús de la Intel·ligènc
 
 # 1. IA en la Gestio i Optimitzacio de Xarxes
 
+<img src="./imagenes/1.png"  style="width:300px; height:auto;">
+
 ### 1.1. Aplicacions de la IA
 
 - **Optimització de trànsit de xarxa**: Utilització d'algoritmes d'IA per gestionar i optimitzar el trànsit de dades a través de les xarxes. Això inclou la previsió de la congestió i la redirecció de les dades de manera més eficient.
@@ -36,7 +38,7 @@ Aquest manual proporciona informació detallada sobre l'ús de la Intel·ligènc
 <br><br><br>
 
 # 2. IA en la Seguretat de Xarxes
-
+<img src="./imagenes/2.png"  style="width:300px; height:auto;">
 ### 2.1. Aplicacions de la IA
 
 - **Detecció i resposta a incidents de seguretat (SIEM)**: Models d'IA per analitzar logs i detectar activitats sospitoses o malicioses en temps real.
@@ -61,7 +63,7 @@ Aquest manual proporciona informació detallada sobre l'ús de la Intel·ligènc
 <br><br><br>
 
 # 3. IA en la Planificacio i Disseny de Xarxes
-
+<img src="./imagenes/3.png"  style="width:300px; height:auto;">
 ### 3.1. Aplicacions de la IA
 
 - **Planificació intel·ligent de xarxes**: Usar IA per predir les necessitats de xarxa basades en el trànsit, el creixement de l'empresa i altres variables per crear una infraestructura de xarxa més flexible i eficaç.
