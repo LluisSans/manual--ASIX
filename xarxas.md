@@ -7,7 +7,7 @@ Aquest manual proporciona informació detallada sobre l'ús de la Intel·ligènc
 - [IA en la Seguretat de Xarxes](#2-ia-en-la-seguretat-de-xarxes)
 - [IA en la Planificació i Disseny de Xarxes](#3-ia-en-la-planificacio-i-disseny-de-xarxes)
 - [Conclusió](#4-conclusio)
-<br><br>
+<br><br><br>
 
 # 1. IA en la Gestio i Optimitzacio de Xarxes
 
